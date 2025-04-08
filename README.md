@@ -51,7 +51,7 @@ You should see output messages indicating download and wallpaper update status.
 To automate the wallpaper update:
 * Open **Task Scheduler**
 * Create a new basic task:
-   * **Trigger**: Daily or every X minutes
+   * **Trigger**: Daily or on every login
    * **Action**: Start a program
       * Program: `pythonw.exe`
       * Arguments: `C:\path\to\Set_NOAA_Background_Windows.py`
