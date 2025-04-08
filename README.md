@@ -1,6 +1,9 @@
 # 🌍 Earth Desktop Background
 
 Automatically update your desktop wallpaper with the latest **[GEOCOLOR](https://www.star.nesdis.noaa.gov/GOES/fulldisk.php?sat=G19)** satellite image from **NOAA GOES-19**. This repository includes cross-platform Python scripts for both **Windows 10/11** and **Linux Mint** (Cinnamon, MATE, XFCE).
+<p align="center">
+  <img width="452" alt="20250972120_GOES19-ABI-FD-GEOCOLOR-1808x1808" src="https://github.com/user-attachments/assets/0925220b-cd08-49c4-a1a3-c036af7ccfb3" />
+</p>
 
 ---
 
