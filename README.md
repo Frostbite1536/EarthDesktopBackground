@@ -53,7 +53,7 @@ To automate the wallpaper update:
 * Create a new basic task:
    * **Trigger**: Daily or every X minutes
    * **Action**: Start a program
-      * Program: `python.exe`
+      * Program: `pythonw.exe`
       * Arguments: `C:\path\to\Set_NOAA_Background_Windows.py`
       * Start in: `C:\path\to\`
 
